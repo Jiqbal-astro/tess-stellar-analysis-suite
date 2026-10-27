@@ -1,0 +1,8 @@
+# Lightweight environment for running the test-suite (no Eleanor/TensorFlow needed:
+# the tests use the offline Eleanor test double in tests/fake_eleanor).
+numpy
+scipy
+astropy
+matplotlib
+pandas
+pytest

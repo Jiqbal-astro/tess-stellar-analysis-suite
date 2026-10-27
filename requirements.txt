@@ -1,0 +1,9 @@
+numpy==1.26.4
+scipy>=1.11,<2
+astropy==6.1.7
+photutils==1.13.0
+eleanor==2.0.5
+tensorflow==2.16.2
+matplotlib>=3.8,<4
+pandas>=2.0,<3
+lightkurve>=2.4,<3
